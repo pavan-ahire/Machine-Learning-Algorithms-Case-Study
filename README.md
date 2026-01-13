@@ -1,5 +1,7 @@
 # 🤖 Machine Learning Algorithms – Case Studies
 
+<img width="1439" height="452" alt="ChatGPT Image Jan 13, 2026, 05_14_35 PM" src="https://github.com/user-attachments/assets/fc6b3522-c9c6-4582-bbcb-f22418485a93" />
+
 This repository is a structured collection of **machine learning algorithms implemented through detailed case studies and practical examples**.  
 The goal of this project is to build a **deep, algorithm-level understanding of machine learning** by applying each algorithm to real datasets and analyzing its behavior, performance, and limitations 📊.
 
